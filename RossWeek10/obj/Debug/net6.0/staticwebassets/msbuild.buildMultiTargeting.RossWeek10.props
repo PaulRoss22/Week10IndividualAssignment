@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RossWeek10.props" />
+</Project>
